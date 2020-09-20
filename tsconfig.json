@@ -16,5 +16,7 @@
     {
       "path": "./e2e/tsconfig.json"
     }
-]
+],
+"enableIvy": false
+
 }
