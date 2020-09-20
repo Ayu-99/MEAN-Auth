@@ -7,6 +7,7 @@ import {map} from 'rxjs/operators';
 })
 export class AuthService {
 
+  
   authToken:any;
   user:any;
   constructor(private http:HttpClient, public httpHeaders:HttpHeaders) { }
